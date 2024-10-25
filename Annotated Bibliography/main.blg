@@ -22,9 +22,33 @@ Too many commas in name 1 of "Forbes, H. J., Travers, J. C., et al." for entry F
 while executing---line 2608 of file IEEEannot.bst
 Too many commas in name 1 of "Forbes, H. J., Travers, J. C., et al." for entry FHT24
 while executing---line 2608 of file IEEEannot.bst
+Too many commas in name 1 of "Katerina Zdravkova, Venera Krasniqi, Fisnik Dalipi, Mexhid Ferati" for entry KVFM22
+while executing---line 2608 of file IEEEannot.bst
+Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
+while executing---line 2608 of file IEEEannot.bst
+Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
+while executing---line 2608 of file IEEEannot.bst
+Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
+while executing---line 2608 of file IEEEannot.bst
+Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
+while executing---line 2608 of file IEEEannot.bst
+Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
+while executing---line 2608 of file IEEEannot.bst
 Too many commas in name 1 of "Forbes, H. J., Travers, J. C., et al." for entry FHT24
 while executing---line 2620 of file IEEEannot.bst
 Too many commas in name 1 of "Forbes, H. J., Travers, J. C., et al." for entry FHT24
+while executing---line 2620 of file IEEEannot.bst
+Too many commas in name 1 of "Katerina Zdravkova, Venera Krasniqi, Fisnik Dalipi, Mexhid Ferati" for entry KVFM22
+while executing---line 2620 of file IEEEannot.bst
+Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
+while executing---line 2620 of file IEEEannot.bst
+Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
+while executing---line 2620 of file IEEEannot.bst
+Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
+while executing---line 2620 of file IEEEannot.bst
+Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
+while executing---line 2620 of file IEEEannot.bst
+Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
 while executing---line 2620 of file IEEEannot.bst
 Name 1 in "Yasmin Elsahar, Sijung Hu,* Kaddour Bouazza-Marouf, David Kerr, and Annysa Mansor" has a comma at the end for entry YSKDA19
 while executing---line 2620 of file IEEEannot.bst
@@ -32,45 +56,45 @@ Too many commas in name 1 of "Yasmin Elsahar, Sijung Hu,* Kaddour Bouazza-Marouf
 while executing---line 2620 of file IEEEannot.bst
 
 Done.
-You've used 5 entries,
+You've used 12 entries,
             4480 wiz_defined-function locations,
-            918 strings with 10661 characters,
-and the built_in function-call counts, 3488 in all, are:
-= -- 313
-> -- 93
-< -- 5
-+ -- 43
-- -- 28
-* -- 197
-:= -- 584
-add.period$ -- 11
-call.type$ -- 5
-change.case$ -- 29
-chr.to.int$ -- 0
-cite$ -- 5
-duplicate$ -- 251
-empty$ -- 277
-format.name$ -- 32
-if$ -- 747
+            974 strings with 17045 characters,
+and the built_in function-call counts, 8731 in all, are:
+= -- 827
+> -- 189
+< -- 39
++ -- 97
+- -- 56
+* -- 472
+:= -- 1447
+add.period$ -- 25
+call.type$ -- 12
+change.case$ -- 59
+chr.to.int$ -- 57
+cite$ -- 12
+duplicate$ -- 628
+empty$ -- 648
+format.name$ -- 58
+if$ -- 1903
 int.to.chr$ -- 0
-int.to.str$ -- 5
-missing$ -- 46
-newline$ -- 42
-num.names$ -- 10
-pop$ -- 121
+int.to.str$ -- 12
+missing$ -- 101
+newline$ -- 70
+num.names$ -- 24
+pop$ -- 215
 preamble$ -- 1
-purify$ -- 24
+purify$ -- 46
 quote$ -- 2
-skip$ -- 257
+skip$ -- 669
 stack$ -- 0
-substring$ -- 49
-swap$ -- 165
-text.length$ -- 5
+substring$ -- 261
+swap$ -- 468
+text.length$ -- 20
 text.prefix$ -- 0
 top$ -- 6
-type$ -- 45
+type$ -- 108
 warning$ -- 0
-while$ -- 11
-width$ -- 6
-write$ -- 73
-(There were 8 error messages)
+while$ -- 33
+width$ -- 14
+write$ -- 152
+(There were 20 error messages)
