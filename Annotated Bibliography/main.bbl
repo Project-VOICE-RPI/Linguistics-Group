@@ -96,20 +96,6 @@ V.~K. Jaswal, A.~Wayne, and H.~Golino, ``Eye-tracking reveals agency in
   their response time "reflected planning and production processes
   characteristic of fluent spelling in non-autistic typists" . \end{quotation}
 
-\bibitem{KVFM22}
-F.~D. M.~F. Katerina~Zdravkova, Venera~Krasniqi, ``Cutting-edge communication
-  and learning assistive technologies for disabled children: An artificial
-  intelligence perspective,'' \emph{Frontiers in Artificial Intelligence},
-  vol.~5, October 2022.
- \begin{quotation}\noindent The source summarizes a study that analyzes the
-  ways AI is used to create assistive technologies for children with
-  disabilities. The authors identify four main clusters of assistive
-  technologies: Augmentative and Alternative Communication (AAC), machine and
-  deep learning, natural language processing, and conversational AI. The study
-  concludes that AI has the potential to greatly improve the lives of children
-  with disabilities, although there are several ethical challenges, such as
-  high costs and privacy concerns, that need to be addressed. \end{quotation}
-
 \bibitem{10.1145/3640543.3645153}
 \BIBentryALTinterwordspacing
 A.~Nazari, L.~Alabood, K.~B. Feeley, V.~K. Jaswal, and D.~Krishnamurthy,
@@ -170,6 +156,24 @@ C.~B. Sadia Azmin~Anisha, Arkendu~Sen, ``Evaluating the potential and pitfalls
   particularly focusing on data privacy, patient safety, and efficacy in
   diverse populations and settings. \end{quotation}
 
+\bibitem{10.1145/1948954.1948963}
+\BIBentryALTinterwordspacing
+H.~Trinh, ``Developing a phoneme-based talking joystick for nonspeaking
+  individuals,'' \emph{SIGACCESS Access. Comput.}, no.~99, p. 50–54, Jan.
+  2011. [Online]. Available: \url{https://doi.org/10.1145/1948954.1948963}
+\BIBentrySTDinterwordspacing
+ \begin{quotation}\noindent This article presents an alternative method of
+  spoken communication for individuals with little or no functional speech,
+  especially children with motor problems who never fully mastered formal
+  literacy. This phoneme-based method relies on the sound of the words rather
+  than spelling, which is a more natural way of communication and therefore
+  easier, but it’s not simplified to the point of using pictures since this
+  method constricts their vocabulary too much. With phonemes, users can make
+  their own words too and have an infinite number of word combinations. The
+  interface is still somewhat complicated, though, and requires fine movement
+  with their fingers, so many children with PIMD may be unable to use it.
+  \end{quotation}
+
 \bibitem{MM23}
 M.~Wang and M.~Jeon, ``Assistive technology for adults on the autism spectrum:
   A systematic survey,'' \emph{International Journal of Human-Computer
@@ -200,5 +204,19 @@ M.~Wang and M.~Jeon, ``Assistive technology for adults on the autism spectrum:
   user-centered design for these technologies, advocating for a focus on the
   user's needs and abilities in different communication contexts.
   \end{quotation}
+
+\bibitem{KVFM22}
+K.~Zdravkova, V.~Krasniqi, F.~Dalipi, and M.~Ferati, ``Cutting-edge
+  communication and learning assistive technologies for disabled children: An
+  artificial intelligence perspective,'' \emph{Frontiers in Artificial
+  Intelligence}, vol.~5, October 2022.
+ \begin{quotation}\noindent The source summarizes a study that analyzes the
+  ways AI is used to create assistive technologies for children with
+  disabilities. The authors identify four main clusters of assistive
+  technologies: Augmentative and Alternative Communication (AAC), machine and
+  deep learning, natural language processing, and conversational AI. The study
+  concludes that AI has the potential to greatly improve the lives of children
+  with disabilities, although there are several ethical challenges, such as
+  high costs and privacy concerns, that need to be addressed. \end{quotation}
 
 \end{thebibliography}

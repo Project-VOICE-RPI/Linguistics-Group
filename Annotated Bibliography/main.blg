@@ -10,11 +10,6 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: annot.bib
-I was expecting a `,' or a `}'---line 369 of file annot.bib
- :  
- :  Annotate = {The goal of this study was to develop an outline for the design of a wearable device able to translate biodata to visual, auditory, or tactile interactive displays to aid nonverbal communication for individuals with PIMB. One major highlight of this study is that the concept was developed along with people with PIMD and their families, and it was found through them that the type of device that had the strongest “call for action” and attention retention was on-the-body wearables}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 -- IEEEtranS.bst version 1.11 (2003/04/02) by Michael Shell.
 -- http://www.ctan.org/tex-archive/macros/latex/contrib/supported/IEEEtran/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
@@ -27,13 +22,9 @@ Too many commas in name 1 of "Forbes, H. J., Travers, J. C., et al." for entry F
 while executing---line 2608 of file IEEEannot.bst
 Too many commas in name 1 of "Forbes, H. J., Travers, J. C., et al." for entry FHT24
 while executing---line 2608 of file IEEEannot.bst
-Too many commas in name 1 of "Katerina Zdravkova, Venera Krasniqi, Fisnik Dalipi, Mexhid Ferati" for entry KVFM22
-while executing---line 2608 of file IEEEannot.bst
 Too many commas in name 1 of "Forbes, H. J., Travers, J. C., et al." for entry FHT24
 while executing---line 2620 of file IEEEannot.bst
 Too many commas in name 1 of "Forbes, H. J., Travers, J. C., et al." for entry FHT24
-while executing---line 2620 of file IEEEannot.bst
-Too many commas in name 1 of "Katerina Zdravkova, Venera Krasniqi, Fisnik Dalipi, Mexhid Ferati" for entry KVFM22
 while executing---line 2620 of file IEEEannot.bst
 Name 1 in "Yasmin Elsahar, Sijung Hu,* Kaddour Bouazza-Marouf, David Kerr, and Annysa Mansor" has a comma at the end for entry YSKDA19
 while executing---line 2620 of file IEEEannot.bst
@@ -41,45 +32,45 @@ Too many commas in name 1 of "Yasmin Elsahar, Sijung Hu,* Kaddour Bouazza-Marouf
 while executing---line 2620 of file IEEEannot.bst
 
 Done.
-You've used 13 entries,
+You've used 14 entries,
             4480 wiz_defined-function locations,
-            980 strings with 17405 characters,
-and the built_in function-call counts, 9831 in all, are:
-= -- 912
-> -- 252
-< -- 39
-+ -- 127
-- -- 76
-* -- 545
-:= -- 1611
-add.period$ -- 28
-call.type$ -- 13
-change.case$ -- 72
+            989 strings with 18313 characters,
+and the built_in function-call counts, 10723 in all, are:
+= -- 1004
+> -- 278
+< -- 41
++ -- 139
+- -- 84
+* -- 593
+:= -- 1754
+add.period$ -- 30
+call.type$ -- 14
+change.case$ -- 79
 chr.to.int$ -- 57
-cite$ -- 13
-duplicate$ -- 694
-empty$ -- 730
-format.name$ -- 80
-if$ -- 2141
+cite$ -- 14
+duplicate$ -- 758
+empty$ -- 786
+format.name$ -- 89
+if$ -- 2341
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 119
-newline$ -- 76
-num.names$ -- 26
-pop$ -- 275
+int.to.str$ -- 14
+missing$ -- 129
+newline$ -- 82
+num.names$ -- 28
+pop$ -- 300
 preamble$ -- 1
-purify$ -- 58
+purify$ -- 64
 quote$ -- 2
-skip$ -- 734
+skip$ -- 805
 stack$ -- 0
-substring$ -- 267
-swap$ -- 512
-text.length$ -- 20
+substring$ -- 287
+swap$ -- 563
+text.length$ -- 22
 text.prefix$ -- 0
 top$ -- 6
-type$ -- 117
+type$ -- 126
 warning$ -- 0
-while$ -- 35
-width$ -- 15
-write$ -- 165
-(There were 11 error messages)
+while$ -- 38
+width$ -- 16
+write$ -- 179
+(There were 8 error messages)
