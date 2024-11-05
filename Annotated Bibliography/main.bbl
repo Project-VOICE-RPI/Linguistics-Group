@@ -53,6 +53,25 @@ T.~J. C. e.~a. Forbes, H.~J., ``A systematic review of acquisition and mastery
   teaching functional communication to individuals with developmental
   disabilities, particularly those on the autism spectrum. \end{quotation}
 
+\bibitem{VTYYASET22}
+V.~R.~D. Herbuela, T.~Karita, Y.~Furukawa, Y.~Wada, A.~Toya, S.~Senba,
+  E.~Onishi, and T.~Saeki, ``Machine learning-based classification of the
+  movements of children with profound or severe intellectual or multiple
+  disabilities using environment data features,'' \emph{PLOS One}, vol.~17,
+  no.~6, June 2022.
+ \begin{quotation}\noindent This research explores the potential of an
+  assistive technology system that uses environmental data, such as location
+  and weather, to enhance the interpretation of movements made by children with
+  profound intellectual and multiple disabilities (PIMD). Researchers tested
+  this system using four different machine learning algorithms and found that
+  adding environmental data significantly improved the accuracy of classifying
+  these movements into categories that could help with communication. The
+  authors concluded that using machine learning in conjunction with
+  environmental data holds promise for supporting communication and improving
+  the quality of life for children with PIMD. Further investigation is needed
+  to understand how the specific levels of these weather features relate to the
+  children's behaviors. \end{quotation}
+
 \bibitem{Wang99}
 V.~K. Jaswal, A.~J. Lampi, and K.~M. Stockwell, ``Literacy in nonspeaking
   autistic people,'' in \emph{Autism}, Feb 2024.
@@ -106,6 +125,18 @@ A.~Nazari, L.~Alabood, K.~B. Feeley, V.~K. Jaswal, and D.~Krishnamurthy,
   based on the gestures the users make with physical letterboards.
   \end{quotation}
 
+\bibitem{10.1145/3411763.3451797}
+\BIBentryALTinterwordspacing
+K.~Neidlinger, S.~Koenderink, and K.~P. Truong, ``Give the body a voice:
+  Co-design with profound intellectual and multiple disabilities to create
+  multisensory wearables,'' in \emph{Extended Abstracts of the 2021 CHI
+  Conference on Human Factors in Computing Systems}, ser. CHI EA '21.\hskip 1em
+  plus 0.5em minus 0.4em\relax New York, NY, USA: Association for Computing
+  Machinery, 2021. [Online]. Available:
+  \url{https://doi.org/10.1145/3411763.3451797}
+\BIBentrySTDinterwordspacing
+
+
 \bibitem{Flink22}
 A.~Rensfeld~Flink \emph{et~al.}, ``Augmentative and alternative communication
   with children with severe/profound intellectual and multiple disabilities:
@@ -138,24 +169,6 @@ C.~B. Sadia Azmin~Anisha, Arkendu~Sen, ``Evaluating the potential and pitfalls
   conditions but require further development and rigorous evaluation,
   particularly focusing on data privacy, patient safety, and efficacy in
   diverse populations and settings. \end{quotation}
-
-\bibitem{VTYYASET22}
-Y.~F. Y. W. A. T. S. S. E. O. T.~S. Von Ralph Dane Marquez~Herbuela,
-  Tomonori~Karita, ``Machine learning-based classification of the movements of
-  children with profound or severe intellectual or multiple disabilities using
-  environment data features,'' \emph{PLOS One}, vol.~17, no.~6, June 2022.
- \begin{quotation}\noindent This research explores the potential of an
-  assistive technology system that uses environmental data, such as location
-  and weather, to enhance the interpretation of movements made by children with
-  profound intellectual and multiple disabilities (PIMD). Researchers tested
-  this system using four different machine learning algorithms and found that
-  adding environmental data significantly improved the accuracy of classifying
-  these movements into categories that could help with communication. The
-  authors concluded that using machine learning in conjunction with
-  environmental data holds promise for supporting communication and improving
-  the quality of life for children with PIMD. Further investigation is needed
-  to understand how the specific levels of these weather features relate to the
-  children's behaviors. \end{quotation}
 
 \bibitem{MM23}
 M.~Wang and M.~Jeon, ``Assistive technology for adults on the autism spectrum:

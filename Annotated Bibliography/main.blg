@@ -10,6 +10,11 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: annot.bib
+I was expecting a `,' or a `}'---line 369 of file annot.bib
+ :  
+ :  Annotate = {The goal of this study was to develop an outline for the design of a wearable device able to translate biodata to visual, auditory, or tactile interactive displays to aid nonverbal communication for individuals with PIMB. One major highlight of this study is that the concept was developed along with people with PIMD and their families, and it was found through them that the type of device that had the strongest “call for action” and attention retention was on-the-body wearables}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 -- IEEEtranS.bst version 1.11 (2003/04/02) by Michael Shell.
 -- http://www.ctan.org/tex-archive/macros/latex/contrib/supported/IEEEtran/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
@@ -24,31 +29,11 @@ Too many commas in name 1 of "Forbes, H. J., Travers, J. C., et al." for entry F
 while executing---line 2608 of file IEEEannot.bst
 Too many commas in name 1 of "Katerina Zdravkova, Venera Krasniqi, Fisnik Dalipi, Mexhid Ferati" for entry KVFM22
 while executing---line 2608 of file IEEEannot.bst
-Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
-while executing---line 2608 of file IEEEannot.bst
-Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
-while executing---line 2608 of file IEEEannot.bst
-Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
-while executing---line 2608 of file IEEEannot.bst
-Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
-while executing---line 2608 of file IEEEannot.bst
-Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
-while executing---line 2608 of file IEEEannot.bst
 Too many commas in name 1 of "Forbes, H. J., Travers, J. C., et al." for entry FHT24
 while executing---line 2620 of file IEEEannot.bst
 Too many commas in name 1 of "Forbes, H. J., Travers, J. C., et al." for entry FHT24
 while executing---line 2620 of file IEEEannot.bst
 Too many commas in name 1 of "Katerina Zdravkova, Venera Krasniqi, Fisnik Dalipi, Mexhid Ferati" for entry KVFM22
-while executing---line 2620 of file IEEEannot.bst
-Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
-while executing---line 2620 of file IEEEannot.bst
-Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
-while executing---line 2620 of file IEEEannot.bst
-Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
-while executing---line 2620 of file IEEEannot.bst
-Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
-while executing---line 2620 of file IEEEannot.bst
-Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
 while executing---line 2620 of file IEEEannot.bst
 Name 1 in "Yasmin Elsahar, Sijung Hu,* Kaddour Bouazza-Marouf, David Kerr, and Annysa Mansor" has a comma at the end for entry YSKDA19
 while executing---line 2620 of file IEEEannot.bst
@@ -56,45 +41,45 @@ Too many commas in name 1 of "Yasmin Elsahar, Sijung Hu,* Kaddour Bouazza-Marouf
 while executing---line 2620 of file IEEEannot.bst
 
 Done.
-You've used 12 entries,
+You've used 13 entries,
             4480 wiz_defined-function locations,
-            974 strings with 17045 characters,
-and the built_in function-call counts, 8731 in all, are:
-= -- 827
-> -- 189
+            980 strings with 17405 characters,
+and the built_in function-call counts, 9831 in all, are:
+= -- 912
+> -- 252
 < -- 39
-+ -- 97
-- -- 56
-* -- 472
-:= -- 1447
-add.period$ -- 25
-call.type$ -- 12
-change.case$ -- 59
++ -- 127
+- -- 76
+* -- 545
+:= -- 1611
+add.period$ -- 28
+call.type$ -- 13
+change.case$ -- 72
 chr.to.int$ -- 57
-cite$ -- 12
-duplicate$ -- 628
-empty$ -- 648
-format.name$ -- 58
-if$ -- 1903
+cite$ -- 13
+duplicate$ -- 694
+empty$ -- 730
+format.name$ -- 80
+if$ -- 2141
 int.to.chr$ -- 0
-int.to.str$ -- 12
-missing$ -- 101
-newline$ -- 70
-num.names$ -- 24
-pop$ -- 215
+int.to.str$ -- 13
+missing$ -- 119
+newline$ -- 76
+num.names$ -- 26
+pop$ -- 275
 preamble$ -- 1
-purify$ -- 46
+purify$ -- 58
 quote$ -- 2
-skip$ -- 669
+skip$ -- 734
 stack$ -- 0
-substring$ -- 261
-swap$ -- 468
+substring$ -- 267
+swap$ -- 512
 text.length$ -- 20
 text.prefix$ -- 0
 top$ -- 6
-type$ -- 108
+type$ -- 117
 warning$ -- 0
-while$ -- 33
-width$ -- 14
-write$ -- 152
-(There were 20 error messages)
+while$ -- 35
+width$ -- 15
+write$ -- 165
+(There were 11 error messages)
