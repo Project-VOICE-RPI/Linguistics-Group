@@ -8,14 +8,6 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: annot.bib
-You're missing a field name---line 42 of file annot.bib
- :   note      = {DOI:10.1080/17483107.2022.1234567},  
- :                                                     % Add actual DOI
-I'm skipping whatever remains of this entry
-You're missing a field name---line 55 of file annot.bib
- :   note      = {DOI:10.1080/17483107.2019.1234567},  
- :                                                     % Add actual DOI if available
-I'm skipping whatever remains of this entry
 -- IEEEtranS.bst version 1.11 (2003/04/02) by Michael Shell.
 -- http://www.ctan.org/tex-archive/macros/latex/contrib/supported/IEEEtran/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
@@ -28,14 +20,14 @@ while executing---line 2620 of file IEEEannot.bst
 Done.
 You've used 5 entries,
             4480 wiz_defined-function locations,
-            922 strings with 10681 characters,
-and the built_in function-call counts, 4734 in all, are:
+            924 strings with 11815 characters,
+and the built_in function-call counts, 4738 in all, are:
 = -- 447
 > -- 90
 < -- 41
 + -- 55
 - -- 24
-* -- 265
+* -- 269
 := -- 773
 add.period$ -- 10
 call.type$ -- 5
@@ -67,4 +59,4 @@ warning$ -- 0
 while$ -- 23
 width$ -- 6
 write$ -- 82
-(There were 4 error messages)
+(There were 2 error messages)
