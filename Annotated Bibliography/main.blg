@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: IEEEannot.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: annot.bib
+You're missing a field name---line 42 of file annot.bib
+ :   note      = {DOI:10.1080/17483107.2022.1234567},  
+ :                                                     % Add actual DOI
+I'm skipping whatever remains of this entry
+You're missing a field name---line 55 of file annot.bib
+ :   note      = {DOI:10.1080/17483107.2019.1234567},  
+ :                                                     % Add actual DOI if available
+I'm skipping whatever remains of this entry
+-- IEEEtranS.bst version 1.11 (2003/04/02) by Michael Shell.
+-- http://www.ctan.org/tex-archive/macros/latex/contrib/supported/IEEEtran/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+** Sorting version - not for use with work to be submitted to the IEEE.
+Name 1 in "Lancioni, Guilio E., and others" has a comma at the end for entry Lancioni24
+while executing---line 2608 of file IEEEannot.bst
+Name 1 in "Lancioni, Guilio E., and others" has a comma at the end for entry Lancioni24
+while executing---line 2620 of file IEEEannot.bst
+
+Done.
+You've used 5 entries,
+            4480 wiz_defined-function locations,
+            922 strings with 10681 characters,
+and the built_in function-call counts, 4734 in all, are:
+= -- 447
+> -- 90
+< -- 41
++ -- 55
+- -- 24
+* -- 265
+:= -- 773
+add.period$ -- 10
+call.type$ -- 5
+change.case$ -- 24
+chr.to.int$ -- 81
+cite$ -- 5
+duplicate$ -- 311
+empty$ -- 310
+format.name$ -- 22
+if$ -- 1037
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 47
+newline$ -- 40
+num.names$ -- 10
+pop$ -- 67
+preamble$ -- 1
+purify$ -- 15
+quote$ -- 2
+skip$ -- 353
+stack$ -- 0
+substring$ -- 243
+swap$ -- 275
+text.length$ -- 14
+text.prefix$ -- 0
+top$ -- 6
+type$ -- 45
+warning$ -- 0
+while$ -- 23
+width$ -- 6
+write$ -- 82
+(There were 4 error messages)
