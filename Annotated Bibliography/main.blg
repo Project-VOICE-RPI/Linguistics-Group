@@ -34,6 +34,11 @@ Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, 
 while executing---line 2608 of file IEEEannot.bst
 Name 1 in "Lancioni, Guilio E., and others" has a comma at the end for entry Lancioni24
 while executing---line 2608 of file IEEEannot.bst
+Name 1 in "Bryant, Lucy, and others" has a comma at the end for entry Lucy20
+while executing---line 2608 of file IEEEannot.bst
+Name 1 in "Bryant, Lucy, and others" has a comma at the end for entry Lucy20
+while executing---line 2620 of file IEEEannot.bst
+Warning--empty booktitle in Lucy20
 Too many commas in name 1 of "Forbes, H. J., Travers, J. C., et al." for entry FHT24
 while executing---line 2620 of file IEEEannot.bst
 Too many commas in name 1 of "Forbes, H. J., Travers, J. C., et al." for entry FHT24
@@ -58,45 +63,45 @@ Too many commas in name 1 of "Yasmin Elsahar, Sijung Hu,* Kaddour Bouazza-Marouf
 while executing---line 2620 of file IEEEannot.bst
 
 Done.
-You've used 13 entries,
+You've used 14 entries,
             4480 wiz_defined-function locations,
-            984 strings with 18035 characters,
-and the built_in function-call counts, 9720 in all, are:
-= -- 916
-> -- 211
-< -- 50
-+ -- 110
-- -- 60
-* -- 535
-:= -- 1626
-add.period$ -- 27
-call.type$ -- 13
-change.case$ -- 66
-chr.to.int$ -- 81
-cite$ -- 13
-duplicate$ -- 685
-empty$ -- 712
-format.name$ -- 63
-if$ -- 2115
+            992 strings with 19292 characters,
+and the built_in function-call counts, 10779 in all, are:
+= -- 1003
+> -- 234
+< -- 60
++ -- 124
+- -- 64
+* -- 588
+:= -- 1772
+add.period$ -- 30
+call.type$ -- 14
+change.case$ -- 70
+chr.to.int$ -- 108
+cite$ -- 15
+duplicate$ -- 752
+empty$ -- 799
+format.name$ -- 68
+if$ -- 2362
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 113
-newline$ -- 74
-num.names$ -- 26
-pop$ -- 228
+int.to.str$ -- 14
+missing$ -- 122
+newline$ -- 80
+num.names$ -- 28
+pop$ -- 255
 preamble$ -- 1
-purify$ -- 49
+purify$ -- 52
 quote$ -- 2
-skip$ -- 733
+skip$ -- 814
 stack$ -- 0
-substring$ -- 310
-swap$ -- 520
-text.length$ -- 23
+substring$ -- 379
+swap$ -- 572
+text.length$ -- 24
 text.prefix$ -- 0
 top$ -- 6
-type$ -- 117
-warning$ -- 0
-while$ -- 40
-width$ -- 15
-write$ -- 167
-(There were 22 error messages)
+type$ -- 126
+warning$ -- 1
+while$ -- 45
+width$ -- 16
+write$ -- 179
+(There were 24 error messages)
