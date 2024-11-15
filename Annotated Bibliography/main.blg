@@ -1,14 +1,12 @@
-This is BibTeX, Version 0.99d
+This is BibTeX, Version 0.99d (TeX Live 2024)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
-Reallocating 'name_of_file' (item size: 1) to 10 items.
 The style file: IEEEannot.bst
-Reallocating 'name_of_file' (item size: 1) to 6 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'wiz_functions' (item size: 4) to 6000 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: annot.bib
 -- IEEEtranS.bst version 1.11 (2003/04/02) by Michael Shell.
 -- http://www.ctan.org/tex-archive/macros/latex/contrib/supported/IEEEtran/
@@ -34,11 +32,15 @@ Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, 
 while executing---line 2608 of file IEEEannot.bst
 Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
 while executing---line 2608 of file IEEEannot.bst
+Name 1 in "Lancioni, Guilio E., and others" has a comma at the end for entry Lancioni24
+while executing---line 2608 of file IEEEannot.bst
 Too many commas in name 1 of "Forbes, H. J., Travers, J. C., et al." for entry FHT24
 while executing---line 2620 of file IEEEannot.bst
 Too many commas in name 1 of "Forbes, H. J., Travers, J. C., et al." for entry FHT24
 while executing---line 2620 of file IEEEannot.bst
 Too many commas in name 1 of "Katerina Zdravkova, Venera Krasniqi, Fisnik Dalipi, Mexhid Ferati" for entry KVFM22
+while executing---line 2620 of file IEEEannot.bst
+Name 1 in "Lancioni, Guilio E., and others" has a comma at the end for entry Lancioni24
 while executing---line 2620 of file IEEEannot.bst
 Too many commas in name 1 of "Von Ralph Dane Marquez Herbuela, Tomonori Karita, Yoshiya Furukawa, Yoshinori Wada, Akihiro Toya, Shuichiro Senba, Eiko Onishi, Tatsuo Saeki" for entry VTYYASET22
 while executing---line 2620 of file IEEEannot.bst
@@ -56,45 +58,45 @@ Too many commas in name 1 of "Yasmin Elsahar, Sijung Hu,* Kaddour Bouazza-Marouf
 while executing---line 2620 of file IEEEannot.bst
 
 Done.
-You've used 12 entries,
+You've used 13 entries,
             4480 wiz_defined-function locations,
-            974 strings with 17045 characters,
-and the built_in function-call counts, 8731 in all, are:
-= -- 827
-> -- 189
-< -- 39
-+ -- 97
-- -- 56
-* -- 472
-:= -- 1447
-add.period$ -- 25
-call.type$ -- 12
-change.case$ -- 59
-chr.to.int$ -- 57
-cite$ -- 12
-duplicate$ -- 628
-empty$ -- 648
-format.name$ -- 58
-if$ -- 1903
+            984 strings with 18035 characters,
+and the built_in function-call counts, 9720 in all, are:
+= -- 916
+> -- 211
+< -- 50
++ -- 110
+- -- 60
+* -- 535
+:= -- 1626
+add.period$ -- 27
+call.type$ -- 13
+change.case$ -- 66
+chr.to.int$ -- 81
+cite$ -- 13
+duplicate$ -- 685
+empty$ -- 712
+format.name$ -- 63
+if$ -- 2115
 int.to.chr$ -- 0
-int.to.str$ -- 12
-missing$ -- 101
-newline$ -- 70
-num.names$ -- 24
-pop$ -- 215
+int.to.str$ -- 13
+missing$ -- 113
+newline$ -- 74
+num.names$ -- 26
+pop$ -- 228
 preamble$ -- 1
-purify$ -- 46
+purify$ -- 49
 quote$ -- 2
-skip$ -- 669
+skip$ -- 733
 stack$ -- 0
-substring$ -- 261
-swap$ -- 468
-text.length$ -- 20
+substring$ -- 310
+swap$ -- 520
+text.length$ -- 23
 text.prefix$ -- 0
 top$ -- 6
-type$ -- 108
+type$ -- 117
 warning$ -- 0
-while$ -- 33
-width$ -- 14
-write$ -- 152
-(There were 20 error messages)
+while$ -- 40
+width$ -- 15
+write$ -- 167
+(There were 22 error messages)

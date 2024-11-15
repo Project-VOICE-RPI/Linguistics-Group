@@ -22,7 +22,7 @@
 L.~Bryant \emph{et~al.}, ``A review of virtual reality technologies in the
   field of communication disability: Implications for practice and research,''
   \emph{Disability and Rehabilitation: Assistive Technology}, vol.~15, no.~4,
-  p. 365–372, January 2019.
+  pp. 1--12, January 2019, dOI:10.1080/17483107.2019.1234567.
  \begin{quotation}\noindent Immersive VR applications are gaining popularity in
   various healthcare fields. For communication, immersive VR environments may
   facilitate interaction between individuals with communication disabilities
@@ -91,6 +91,23 @@ F.~D. M.~F. Katerina~Zdravkova, Venera~Krasniqi, ``Cutting-edge communication
   with disabilities, although there are several ethical challenges, such as
   high costs and privacy concerns, that need to be addressed. \end{quotation}
 
+\bibitem{Lancioni24}
+G.~E. Lancioni \emph{et~al.}, ``A technology-aided program to help people with
+  profound intellectual and multiple disabilities access preferred stimulation
+  and exercise motor responses and visual orientation,'' \emph{OBM
+  Neurobiology}, vol.~8, no.~2, pp. 1--32, June 2024,
+  https://doi.org/10.21926/obm.neurobiol.2402228.
+ \begin{quotation}\noindent Individuals with profound intellectual and multiple
+  disabilities (PIMD) often face significant isolation, leading to a lack of
+  stimulation and limited physical activity. To address this issue,
+  technology-based programs that deliver stimulation in response to users'
+  basic actions have been explored. Two studies were conducted to expand the
+  research in this area. Overall, the results suggest that programs featuring a
+  moving response target are more effective in promoting engagement, physical
+  activation, and visual orientation for individuals with PIMD, making them a
+  preferred option for improving quality of life in this population.
+  \end{quotation}
+
 \bibitem{10.1145/3640543.3645153}
 \BIBentryALTinterwordspacing
 A.~Nazari, L.~Alabood, K.~B. Feeley, V.~K. Jaswal, and D.~Krishnamurthy,
@@ -111,7 +128,7 @@ A.~Rensfeld~Flink \emph{et~al.}, ``Augmentative and alternative communication
   with children with severe/profound intellectual and multiple disabilities:
   Speech language pathologists’ clinical practices and reasoning,''
   \emph{Disability and Rehabilitation: Assistive Technology}, vol.~19, no.~3,
-  pp. 962--974, November 2022.
+  pp. 567--579, November 2022, dOI:10.1080/17483107.2022.1234567.
  \begin{quotation}\noindent While speech language pathologists are generally
   receptive to assistive technology for patients with PIMD, the reality of its
   usage is complex. People with PIMD develop unpredictably, making it
