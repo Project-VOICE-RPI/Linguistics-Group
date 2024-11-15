@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \providecommand{\url}[1]{#1}
 \csname url@rmstyle\endcsname
 \providecommand{\newblock}{\relax}
@@ -22,7 +22,7 @@
 L.~Bryant \emph{et~al.}, ``A review of virtual reality technologies in the
   field of communication disability: Implications for practice and research,''
   \emph{Disability and Rehabilitation: Assistive Technology}, vol.~15, no.~4,
-  pp. 1--12, January 2019, dOI:10.1080/17483107.2019.1234567.
+  p. 365–372, January 2019.
  \begin{quotation}\noindent Immersive VR applications are gaining popularity in
   various healthcare fields. For communication, immersive VR environments may
   facilitate interaction between individuals with communication disabilities
@@ -45,40 +45,26 @@ W.~Farzana \emph{et~al.}, ``Technological evolvement in aac modalities to
   methods and explores the shift from traditional PECS to AI/ML and AR-based
   approaches. \end{quotation}
 
-\bibitem{Lancioni24}
-G.~E. Lancioni \emph{et~al.}, ``A technology-aided program to help people with
-  profound intellectual and multiple disabilities access preferred stimulation
-  and exercise motor responses and visual orientation,'' \emph{OBM
-  Neurobiology}, vol.~8, no.~2, pp. 1--32, June 2024,
-  https://doi.org/10.21926/obm.neurobiol.2402228.
- \begin{quotation}\noindent Individuals with profound intellectual and multiple
-  disabilities (PIMD) often face significant isolation, leading to a lack of
-  stimulation and limited physical activity. To address this issue,
-  technology-based programs that deliver stimulation in response to users'
-  basic actions have been explored. Two studies were conducted to expand the
-  research in this area. Overall, the results suggest that programs featuring a
-  moving response target are more effective in promoting engagement, physical
-  activation, and visual orientation for individuals with PIMD, making them a
-  preferred option for improving quality of life in this population.
-  \end{quotation}
+\bibitem{FHT24}
+T.~J. C. e.~a. Forbes, H.~J., ``A systematic review of acquisition and mastery
+  of skills taught using the picture exchange communication system,''
+  \emph{Advance online publication}, Feb 2024.
+ \begin{quotation}\noindent This article examines the effectiveness of PECS in
+  teaching functional communication to individuals with developmental
+  disabilities, particularly those on the autism spectrum. \end{quotation}
 
-\bibitem{Flink22}
-A.~Rensfeld~Flink \emph{et~al.}, ``Augmentative and alternative communication
-  with children with severe/profound intellectual and multiple disabilities:
-  Speech language pathologists’ clinical practices and reasoning,''
-  \emph{Disability and Rehabilitation: Assistive Technology}, vol.~19, no.~3,
-  pp. 567--579, November 2022, dOI:10.1080/17483107.2022.1234567.
- \begin{quotation}\noindent While speech language pathologists are generally
-  receptive to assistive technology for patients with PIMD, the reality of its
-  usage is complex. People with PIMD develop unpredictably, making it
-  challenging to apply general AAC methods. The effectiveness of AAC also
-  depends on the environment: are caregivers skilled in using the technology?
-  How would the patient communicate in less supportive settings? Despite visual
-  scene displays being more efficient, they are less used compared to more
-  cognitively demanding methods. \end{quotation}
+\bibitem{Wang99}
+V.~K. Jaswal, A.~J. Lampi, and K.~M. Stockwell, ``Literacy in nonspeaking
+  autistic people,'' in \emph{Autism}, Feb 2024.
+ \begin{quotation}\noindent This paper claims that nonspeaking autistic people
+  with limited to no phrase speech show patterns in their response rates close
+  to verbal and literate people. This means that their brain is capable of this
+  level of literacy and are already recognizing sentences and word meaning, so
+  with adequate instruction it might be possible lead them to written forms of
+  communication as an alternative to speech. \end{quotation}
 
-\bibitem{Brook99}
-H.~G. Vikram K.~Jaswal, Allison~Wayne, ``Eye-tracking reveals agency in
+\bibitem{JWG20}
+V.~K. Jaswal, A.~Wayne, and H.~Golino, ``Eye-tracking reveals agency in
   assisted autistic communication,'' \emph{Scientific Reports}, vol.~10, no.
   7882, May 2020.
  \begin{quotation}\noindent Letterboards are a very common way to assist
@@ -90,5 +76,116 @@ H.~G. Vikram K.~Jaswal, Allison~Wayne, ``Eye-tracking reveals agency in
   errors, fixated their vision on most letters before pointing to them, and
   their response time "reflected planning and production processes
   characteristic of fluent spelling in non-autistic typists" . \end{quotation}
+
+\bibitem{KVFM22}
+F.~D. M.~F. Katerina~Zdravkova, Venera~Krasniqi, ``Cutting-edge communication
+  and learning assistive technologies for disabled children: An artificial
+  intelligence perspective,'' \emph{Frontiers in Artificial Intelligence},
+  vol.~5, October 2022.
+ \begin{quotation}\noindent The source summarizes a study that analyzes the
+  ways AI is used to create assistive technologies for children with
+  disabilities. The authors identify four main clusters of assistive
+  technologies: Augmentative and Alternative Communication (AAC), machine and
+  deep learning, natural language processing, and conversational AI. The study
+  concludes that AI has the potential to greatly improve the lives of children
+  with disabilities, although there are several ethical challenges, such as
+  high costs and privacy concerns, that need to be addressed. \end{quotation}
+
+\bibitem{10.1145/3640543.3645153}
+\BIBentryALTinterwordspacing
+A.~Nazari, L.~Alabood, K.~B. Feeley, V.~K. Jaswal, and D.~Krishnamurthy,
+  ``Personalizing an ar-based communication system for nonspeaking autistic
+  users,'' in \emph{Proceedings of the 29th International Conference on
+  Intelligent User Interfaces}, ser. IUI '24.\hskip 1em plus 0.5em minus
+  0.4em\relax New York, NY, USA: Association for Computing Machinery, 2024, p.
+  731–741. [Online]. Available: \url{https://doi.org/10.1145/3640543.3645153}
+\BIBentrySTDinterwordspacing
+ \begin{quotation}\noindent This article explores the use of Behavioural
+  Cloning (ML) in adapting communication assistive methods (AR, in this
+  example) to the specific user by deriving a personalized placement policy
+  based on the gestures the users make with physical letterboards.
+  \end{quotation}
+
+\bibitem{Flink22}
+A.~Rensfeld~Flink \emph{et~al.}, ``Augmentative and alternative communication
+  with children with severe/profound intellectual and multiple disabilities:
+  Speech language pathologists’ clinical practices and reasoning,''
+  \emph{Disability and Rehabilitation: Assistive Technology}, vol.~19, no.~3,
+  pp. 962--974, November 2022.
+ \begin{quotation}\noindent While speech language pathologists are generally
+  receptive to assistive technology for patients with PIMD, the reality of its
+  usage is complex. People with PIMD develop unpredictably, making it
+  challenging to apply general AAC methods. The effectiveness of AAC also
+  depends on the environment: are caregivers skilled in using the technology?
+  How would the patient communicate in less supportive settings? Despite visual
+  scene displays being more efficient, they are less used compared to more
+  cognitively demanding methods. \end{quotation}
+
+\bibitem{SAC24}
+C.~B. Sadia Azmin~Anisha, Arkendu~Sen, ``Evaluating the potential and pitfalls
+  of ai-powered conversational agents as humanlike virtual health carers in the
+  remote management of noncommunicable diseases: Scoping review,''
+  \emph{Journal of Medical Internet Research}, vol.~26, July 2024.
+ \begin{quotation}\noindent This study examines the potential and challenges of
+  using AI-powered conversational agents (CAs) in remote healthcare for
+  non-communicable diseases (NCDs). The authors analyzed 43 studies and
+  identified four key findings: high user acceptance of avatar-based CAs, a
+  need for more personalized and empathetic CAs, limited evidence of CAs'
+  efficacy in NCD self-management despite optimism among healthcare
+  professionals, and the predominant use of CAs for non-pharmacological
+  interventions like lifestyle modifications. The review concludes that
+  AI-based CAs show promise for supporting self-management of chronic
+  conditions but require further development and rigorous evaluation,
+  particularly focusing on data privacy, patient safety, and efficacy in
+  diverse populations and settings. \end{quotation}
+
+\bibitem{VTYYASET22}
+Y.~F. Y. W. A. T. S. S. E. O. T.~S. Von Ralph Dane Marquez~Herbuela,
+  Tomonori~Karita, ``Machine learning-based classification of the movements of
+  children with profound or severe intellectual or multiple disabilities using
+  environment data features,'' \emph{PLOS One}, vol.~17, no.~6, June 2022.
+ \begin{quotation}\noindent This research explores the potential of an
+  assistive technology system that uses environmental data, such as location
+  and weather, to enhance the interpretation of movements made by children with
+  profound intellectual and multiple disabilities (PIMD). Researchers tested
+  this system using four different machine learning algorithms and found that
+  adding environmental data significantly improved the accuracy of classifying
+  these movements into categories that could help with communication. The
+  authors concluded that using machine learning in conjunction with
+  environmental data holds promise for supporting communication and improving
+  the quality of life for children with PIMD. Further investigation is needed
+  to understand how the specific levels of these weather features relate to the
+  children's behaviors. \end{quotation}
+
+\bibitem{MM23}
+M.~Wang and M.~Jeon, ``Assistive technology for adults on the autism spectrum:
+  A systematic survey,'' \emph{International Journal of Human-Computer
+  Interaction}, vol.~40, no.~10, January 2023.
+ \begin{quotation}\noindent This systematic survey reviews 32 articles that
+  describe and evaluate assistive technologies developed for autistic adults to
+  improve their independence and quality of life. The authors highlight the
+  lack of requirements-driven design and standardized evaluation processes in
+  existing research. They also discuss the importance of involving
+  stakeholders, including caregivers and experts, in the design process and
+  advocate for more research focusing on the generalization and maintenance of
+  acquired skills. The paper concludes with design guidelines and
+  considerations for developing effective assistive technologies for autistic
+  adults, emphasizing the need for continuous user evaluation and the adoption
+  of emerging technologies like AI to enhance individualization and
+  generalization. \end{quotation}
+
+\bibitem{YSKDA19}
+.~K. B.-M. D.~K. Yasmin~Elsahar, Sijung~Hu and A.~Mansor, ``Augmentative and
+  alternative communication (aac) advances: A review of configurations for
+  individuals with a speech disability,'' \emph{National Library of Medicine},
+  vol.~19, no. 1911, April 2019.
+ \begin{quotation}\noindent This review article examines the current
+  technological landscape of augmentative and alternative communication (AAC),
+  which encompasses a variety of high-tech methods and sensing modalities used
+  to acquire, process, and generate output signals that allow individuals with
+  speech disabilities to communicate. The authors highlight the importance of
+  user-centered design for these technologies, advocating for a focus on the
+  user's needs and abilities in different communication contexts.
+  \end{quotation}
 
 \end{thebibliography}
